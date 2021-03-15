@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KemptonM
-- 👀 I’m interested in artificial intelligence and backend development
+- 👀 I’m interested in software engineering
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me: kempton.maillett@maine.edu
