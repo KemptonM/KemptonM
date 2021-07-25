@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @KemptonM
+- 👋 Hi, I’m Kempton
 - 👀 I’m interested in learning penetration testing!
-- 🌱 I’m currently learning Python and C
+- 🌱 I’m currently learning AWS and cloud infrastructure
 - 💞️ I’m looking to collaborate on Python projects
-- 📫 How to reach me: kempton.maillett@maine.edu
 
 <!---
 KemptonM/KemptonM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
