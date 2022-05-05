@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kempton
-- 👀 I’m interested in learning penetration testing!
+- 👀 I’m interested in software engineering
 - 🌱 I’m currently learning AWS and cloud infrastructure
 - 💞️ I’m looking to collaborate on Java projects
 
